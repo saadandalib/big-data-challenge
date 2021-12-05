@@ -5,7 +5,7 @@ The data used were the video games and watches dataset:
 * Video games - https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz
 * Watches - https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Watches_v1_00.tsv.gz
 # ETL Workbook
-The ETL workbook can be found in the *Level 1 Folder*:
+The ETL workbook can be found in the *Codes Folder*:
 * *video_games_analysis.ipynb*
 * *watches_analysis.ipynb*
 # Resources
